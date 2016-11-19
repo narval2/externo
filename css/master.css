@@ -1,9 +1,16 @@
   body{
     background-color: black;
-    color: green;
+    color: orange;
     font-size: 50px;
+    background-image: url("http://www.fanboy.com/wp-content/uploads/2013/06/metal-gear-solid-the-twin-snakes-1.jpg");
+
+    background-image: url("../imagenes/gear.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
   }
 
   h1{
-    color:white;
+    color:black;
   }
